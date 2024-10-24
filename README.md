@@ -1,0 +1,1 @@
+This repo contains homework for [Web Development in Golang](https://stepik.org/course/187490) course
